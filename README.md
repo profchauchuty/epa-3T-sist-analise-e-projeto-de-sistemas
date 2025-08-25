@@ -33,8 +33,9 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 ## 🧪 Conteúdos
 
-| Aula | Nome da Aula              | Link                                                            |
-|------|---------------------------|-----------------------------------------------------------------|
+| Nome da Aula                   | Link                                                            |
+|--------------------------------|-----------------------------------------------------------------|
+| Configuração Ambiente (Github) | [LINK](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
 
 ---
 
