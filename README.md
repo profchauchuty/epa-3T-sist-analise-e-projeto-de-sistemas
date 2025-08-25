@@ -1,6 +1,7 @@
 # 📘 Disciplina: Análise e Projeto de Sistemas
 
-**Turma:** 3ª Ano - Manhã - T  
+**Turma:**: 3ª Ano - Manhã - T  
+**Semestre**: 3º Semestre
 **Professor:** Cesar M. Chauchuty  
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Dr. Epaminondas N. Ribas
@@ -35,7 +36,10 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Nome da Aula                   | Link                                                            |
 |--------------------------------|-----------------------------------------------------------------|
-| Configuração Ambiente (Github) | [LINK](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
+| Configuração Ambiente (Github) | [Acessar](https://docs.github.com/pt/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project) |
+| Manifesto Ágil                 | [Acessar](https://agilemanifesto.org/iso/ptbr/manifesto.html) |
+| O que é Scrum?                 | [Acessar](https://aws.amazon.com/pt/what-is/scrum/) |
+| Artefatos (Scrum)              | [Acessar](https://aws.amazon.com/pt/what-is/scrum/#seo-faq-pairs#what-are-scrum-artifacts) |
 
 ---
 
