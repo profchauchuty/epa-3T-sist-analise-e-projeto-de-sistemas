@@ -1,7 +1,7 @@
 # 📘 Disciplina: Análise e Projeto de Sistemas
 
-**Turma:**: 3ª Ano - Manhã - T  
-**Semestre**: 3º Semestre
+**Turma:** 3ª Ano - Manhã - T  
+**Semestre:** 3º Semestre
 **Professor:** Cesar M. Chauchuty  
 **Curso:** Técnico em Desenvolvimento de Sistemas  
 **Instituição:** Colégio Estadual Dr. Epaminondas N. Ribas
