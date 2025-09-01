@@ -42,6 +42,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | Manifesto Ágil                 | [Acessar](https://agilemanifesto.org/iso/ptbr/manifesto.html) |
 | O que é Scrum?                 | [Acessar](https://aws.amazon.com/pt/what-is/scrum/) |
 | Artefatos (Scrum)              | [Acessar](https://aws.amazon.com/pt/what-is/scrum/#seo-faq-pairs#what-are-scrum-artifacts) |
+| HTML, CSS e JS                 | [Acessar](https://www.alura.com.br/artigos/html-css-e-js-definicoes) |
 | Bulma (Docs)                   | [Acessar](https://bulma.io/documentation/) |
 
 ---
