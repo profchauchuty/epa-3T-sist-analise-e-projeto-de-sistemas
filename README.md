@@ -48,7 +48,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 ---
 
 - A entrega fora do prazo ou plágio resultará em penalidades conforme regimento escolar.
-- A recuperação será oferecida para quem obtiver nota inferior a 6,0 no total.
+- A recuperação será oferecida para quem obtiver nota inferior a 60%.
 
 ---
 
