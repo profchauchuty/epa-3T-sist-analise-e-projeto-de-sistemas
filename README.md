@@ -28,8 +28,8 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | Recuperação               | Descrição                      | Pontos   | Data prevista | Realizada? |
 |---------------------------|--------------------------------|----------|----------------|-----------|
 | Avaliação                 | Prova Objetiva                 | 6,0      | 24/11/2025     | ⬜        |
-| Atividade                 | Semana de Informática + Kanban | 4,0      | 25/11/2025     | ⬜        |
-| Atividade                 | Metodologias de Desenv.        | 4,0      | 26/12/2025     | ⬜        |
+| Atividade                 | Semana de Informática + Kanban | 3,0      | 25/11/2025     | ⬜        |
+| Atividade                 | Metodologias de Desenv.        | 3,0      | 26/12/2025     | ⬜        |
 | **Total**                 |                                | **10,0** |                |           |
 
 ---
@@ -42,6 +42,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | Manifesto Ágil                 | [Acessar](https://agilemanifesto.org/iso/ptbr/manifesto.html) |
 | O que é Scrum?                 | [Acessar](https://aws.amazon.com/pt/what-is/scrum/) |
 | Artefatos (Scrum)              | [Acessar](https://aws.amazon.com/pt/what-is/scrum/#seo-faq-pairs#what-are-scrum-artifacts) |
+| Bulma (Docs)                   | [Acessar](https://bulma.io/documentation/) |
 
 ---
 
