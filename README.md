@@ -14,11 +14,12 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 ### Avaliações e Atividades
 
-| Avaliação / Atividade     | Descrição               | Pontos   | Data prevista  | Realizada?  |
-|---------------------------|-------------------------|----------|----------------|-------------|
-| Avaliação                 | <DEFINIR>               | 6,0      | <DEFINIR>      | ◻️          |
-| Atividade (grupo)         | <DEFINIR>               | 4,0      | <DEFINIR>      | ◻️          |
-| **Total**                 |                         | **10,0** |                |             |
+| Avaliação / Atividade     | Descrição                        | Pontos   | Data prevista                     | Realizada?  |
+|---------------------------|----------------------------------|----------|-----------------------------------|-------------|
+| Avaliação                 | Prova Objetiva                   | 6,0      | 11/11/2025                        | ◻️          |
+| Atividade (grupo)         | Semana de Informática + Kanban   | 3,0      | ⚠️ 15/09/2025                     | ◻️          |
+| Atividade (grupo)         | Metodologias de Desenv.          | 3,0      | 17/11, 18/11 e 19/11/2025         | ◻️          |
+| **Total**                 |                                  | **10,0** |                                   |             |
 
 ---
 
@@ -26,8 +27,9 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Recuperação               | Descrição                      | Pontos   | Data prevista | Realizada? |
 |---------------------------|--------------------------------|----------|----------------|-----------|
-| Avaliação                 | <DEFINIR>                      | 6,0      | <DEFINIR>      | ⬜        |
-| Atividade                 | <DEFINIR>                      | 4,0      | <DEFINIR>      | ⬜        |
+| Avaliação                 | Prova Objetiva                 | 6,0      | 24/11/2025     | ⬜        |
+| Atividade                 | Semana de Informática + Kanban | 4,0      | 25/11/2025     | ⬜        |
+| Atividade                 | Metodologias de Desenv.        | 4,0      | 26/12/2025     | ⬜        |
 | **Total**                 |                                | **10,0** |                |           |
 
 ---
