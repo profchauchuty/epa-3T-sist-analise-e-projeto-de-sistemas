@@ -44,6 +44,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | Artefatos (Scrum)              | [Acessar](https://aws.amazon.com/pt/what-is/scrum/#seo-faq-pairs#what-are-scrum-artifacts) |
 | HTML, CSS e JS                 | [Acessar](https://www.alura.com.br/artigos/html-css-e-js-definicoes) |
 | Bulma (Docs)                   | [Acessar](https://bulma.io/documentation/) |
+| Modularização                  | [Acessar](https://gabrieluizramos.com.br/modulos-em-javascript) |
 
 ---
 
