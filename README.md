@@ -16,9 +16,9 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Avaliação / Atividade     | Descrição                        | Pontos   | Data prevista                     | Realizada?  |
 |---------------------------|----------------------------------|----------|-----------------------------------|-------------|
-| Avaliação                 | Prova Objetiva                   | 6,0      | 21/10/2025                        | ◻️          |
-| Atividade (grupo)         | Semana de Informática + Kanban   | 3,0      | 23/09/2025                        | ✅          |
-| Atividade (grupo)         | Metodologias de Desenv.          | 3,0      | 13/10/2025 e 14/10/2025           | ◻️          |
+| Avaliação                 | Prova Objetiva                   | 6,0      | 15/10/2025                        | ◻️          |
+| Atividade (grupo)         | Semana de Informática + Kanban   | 3,0      | 25/09/2025                        | ✅          |
+| Atividade (grupo)         | Metodologias de Desenv.          | 3,0      | 13/10/25, 14/09/25                | ◻️          |
 | **Total**                 |                                  | **10,0** |                                   |             |
 
 ---
@@ -27,9 +27,9 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Recuperação               | Descrição                      | Pontos   | Data prevista | Realizada? |
 |---------------------------|--------------------------------|----------|----------------|-----------|
-| Avaliação                 | Prova Objetiva                 | 6,0      | 24/11/2025     | ⬜        |
-| Atividade                 | Semana de Informática + Kanban | 3,0      | 25/11/2025     | ⬜        |
-| Atividade                 | Metodologias de Desenv.        | 3,0      | 26/12/2025     | ⬜        |
+| Avaliação                 | Prova Objetiva                 | 6,0      | 20/10/2025     | ⬜        |
+| Atividade                 | Semana de Informática + Kanban | 3,0      | 21/11/2025     | ⬜        |
+| Atividade                 | Metodologias de Desenv.        | 3,0      | 22/12/2025     | ⬜        |
 | **Total**                 |                                | **10,0** |                |           |
 
 ---
@@ -45,6 +45,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 | HTML, CSS e JS                 | [Acessar](https://www.alura.com.br/artigos/html-css-e-js-definicoes) |
 | Bulma (Docs)                   | [Acessar](https://bulma.io/documentation/) |
 | Modularização                  | [Acessar](https://gabrieluizramos.com.br/modulos-em-javascript) |
+| Ciclos de Vida do Software     | [Acessar](https://www.devmedia.com.br/ciclos-de-vida-do-software/21099) |
 
 ---
 
