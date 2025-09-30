@@ -16,7 +16,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Avaliação / Atividade     | Descrição                        | Pontos   | Data prevista                     | Realizada?  |
 |---------------------------|----------------------------------|----------|-----------------------------------|-------------|
-| Avaliação                 | Prova Objetiva                   | 6,0      | 15/10/2025                        | ◻️          |
+| Avaliação                 | Prova Objetiva                   | 4,0      | 15/10/2025                        | ◻️          |
 | Atividade (grupo)         | Semana de Informática + Kanban   | 3,0      | 25/09/2025                        | ✅          |
 | Atividade (grupo)         | Metodologias de Desenv.          | 3,0      | 13/10/25, 14/09/25                | ◻️          |
 | **Total**                 |                                  | **10,0** |                                   |             |
