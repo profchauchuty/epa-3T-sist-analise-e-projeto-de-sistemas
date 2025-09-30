@@ -16,7 +16,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Avaliação / Atividade     | Descrição                        | Pontos   | Data prevista                     | Realizada?  |
 |---------------------------|----------------------------------|----------|-----------------------------------|-------------|
-| Avaliação                 | Prova Objetiva                   | 4,0      | 15/10/2025                        | ◻️          |
+| Avaliação                 | Prova Objetiva                   | 4,0      | 20/10/2025                        | ◻️          |
 | Atividade (grupo)         | Semana de Informática + Kanban   | 3,0      | 25/09/2025                        | ✅          |
 | Atividade (grupo)         | Metodologias de Desenv.          | 3,0      | 13/10/25, 14/09/25                | ◻️          |
 | **Total**                 |                                  | **10,0** |                                   |             |
@@ -27,7 +27,7 @@ A avaliação será composta por duas provas individuais e um trabalho em grupo,
 
 | Recuperação               | Descrição                      | Pontos   | Data prevista | Realizada? |
 |---------------------------|--------------------------------|----------|----------------|-----------|
-| Avaliação                 | Prova Objetiva                 | 4,0      | 20/10/2025     | ⬜        |
+| Avaliação                 | Prova Objetiva                 | 4,0      | <DEFINIR>      | ⬜        |
 | Atividade                 | Semana de Informática + Kanban | 3,0      | 21/11/2025     | ⬜        |
 | Atividade                 | Metodologias de Desenv.        | 3,0      | 22/12/2025     | ⬜        |
 | Atividade                 | Recuperação 1o e 2o Semestre   | 10,0     | 22/12/2025     | ⬜        |
