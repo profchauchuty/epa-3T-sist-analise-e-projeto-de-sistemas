@@ -26,6 +26,7 @@
 | Atividade: Funções | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/atividade-funcoes.md) |
 | Vetores e Matrizes      | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/vetores-matrizes.md) |
 | Atividade: Vetores e Matrizes | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/atividades-vetores-matrizes.md) |
+| Teste de Mesa | [Acessar](https://github.com/profchauchuty/cepk-1dsb-introducao-a-programacao/blob/main/files/teste-de-mesa.md) |
 |------------------------------------|------|
 | Introdução à Programação Web: HTML, CSS e JavaScript | [Acessar](https://medium.com/@flpchapola/introdu%C3%A7%C3%A3o-%C3%A0-programa%C3%A7%C3%A3o-web-html-css-e-javascript-79faade7c431) |
 
