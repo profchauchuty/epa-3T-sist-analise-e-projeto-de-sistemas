@@ -334,11 +334,3 @@ para(inteiro i = 0; i < 4; i++){
 
 escreva(contador)
 ```
-
-| Iteração | i | contador |
-|-----------|---|-----------|
-| Inicial | - | 0 |
-| 1ª | ? | ? |
-| 2ª | ? | ? |
-| 3ª | ? | ? |
-| 4ª | ? | ? |
